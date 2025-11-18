@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int fave = 18;
+    float height = 154.94;
+    char  initial = 'M';
+
+    printf("My favorite number is %d, fave");
+    printf("My height is %f, height");
+    printf("The initial of my first name is %c, initial");
+    return 0;
+}
