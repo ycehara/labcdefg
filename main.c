@@ -10,5 +10,6 @@ int main()
     printf("My favorite number is %d, fave");
     printf("My height is %f, height");
     printf("The initial of my first name is %c, initial");
+    printf("sample blabla")
     return 0;
 }
